@@ -1,2 +1,2 @@
-## 2303A52480-AIAC
-# AI Assistant Coding Assignments
+## 2303A52480
+# AI Assistant Coding Lab Assignments
